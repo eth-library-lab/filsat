@@ -1,0 +1,1 @@
+module.exports={title:"Vue.js",slug:"vue-dot-js",svg:'<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js icon</title><path d="M19.197 1.608l.003-.006h-4.425L12 6.4v.002l-2.772-4.8H4.803v.005H0l12 20.786L24 1.608"/></svg>',get path(){return this.svg.match(/<path\s+d="([^"]*)/)[1]},source:"https://github.com/vuejs/art",hex:"4FC08D"};

@@ -1,0 +1,30 @@
+{
+  "name": "dsyntdocs-sender",
+  "version": "0.0.1",
+  "description": "A batch to create and send the documentation as pull requests (PR)",
+  "devDependencies": {
+    "@types/cron": "^1.7.1",
+    "@types/node": "^12.7.8",
+    "@types/node-fetch": "^2.5.2",
+    "@types/rimraf": "^2.0.2",
+    "typescript": "^3.5.1"
+  },
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc",
+    "start": "npm run build && node lib/index.js",
+    "cron": "npm run build && node lib/cronjobs.js"
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "dependencies": {
+    "cron": "^1.7.2",
+    "node-fetch": "^2.6.0",
+    "rimraf": "^3.0.0",
+    "simple-git": "^1.126.0"
+  }
+}

@@ -1,0 +1,12 @@
+div {
+  height: 5rem;
+
+  &.javascript {
+    color: #F7DF1E;
+  }
+
+  svg {
+    height: 100%;
+    fill: currentColor;
+  }
+}

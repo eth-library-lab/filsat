@@ -1,0 +1,13 @@
+[
+    {
+        "model": "code_references.project",
+        "pk": 1,
+        "fields": {
+            "repo_name": "deckdeckgo",
+            "ver_num": "4227664",
+            "link": "https://github.com/deckgo/deckdeckgo",
+            "repo_size": 1000,
+            "prog_lang": "python"
+        }
+    }
+]

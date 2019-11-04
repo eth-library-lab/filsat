@@ -1,0 +1,31 @@
+ion-input[class*="sc-ion-input"], ion-textarea[class*="sc-ion-textarea"] {
+  --padding-start: 8px;
+  --background: var(--ion-color-light);
+  background: var(--ion-color-light);
+  border: 1px solid #dedede;
+  border-radius: 4px;
+
+  --placeholder-opacity: 0.33;
+}
+
+ion-list.inputs-list {
+  --background: transparent;
+  --background-focused: transparent;
+
+  ion-item {
+    --border-color: transparent;
+    --highlight-color-focused: transparent;
+    --background-focused: transparent;
+
+    --padding-start: 0;
+    --inner-padding-end: 0;
+    --inner-border-width: 0;
+    --border-width: 0;
+    --highlight-background: transparent;
+
+    &:not(.item-label) ion-input[class*="sc-ion-input"], &:not(.item-label) ion-textarea[class*="sc-ion-textarea"] {
+      --padding-start: 8px;
+    }
+
+  }
+}

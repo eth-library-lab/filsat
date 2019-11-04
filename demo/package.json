@@ -1,0 +1,26 @@
+{
+  "name": "dsyntdocs-demo",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A demo application for tasks creation and edition",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watch",
+    "generate": "stencil generate"
+  },
+  "dependencies": {
+    "@ionic/core": "^4.11.1",
+    "simple-icons": "^1.18.0"
+  },
+  "devDependencies": {
+    "@stencil/core": "^1.7.2",
+    "@stencil/postcss": "^1.0.1",
+    "@stencil/sass": "^1.0.1",
+    "autoprefixer": "^9.6.5"
+  }
+}

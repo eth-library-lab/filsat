@@ -1,0 +1,41 @@
+app-tasks-panel {
+  div.tasks-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-gap: 8px;
+
+    div.tasks-column {
+      display: block;
+
+      background: var(--ion-color-light);
+
+      &:first-of-type {
+        margin-left: 0;
+      }
+
+      &:last-of-type {
+        margin-right: 0;
+      }
+
+      &.creation {
+        border-top: 2px solid var(--ion-color-tertiary);
+      }
+
+      &.optimization {
+        border-top: 2px solid var(--ion-color-secondary);
+      }
+
+      &.submission {
+        border-top: 2px solid var(--ion-color-quaternary);
+      }
+
+      &.complete {
+        border-top: 2px solid var(--ion-color-primary);
+      }
+
+      ion-card {
+        background: white;
+      }
+    }
+  }
+}

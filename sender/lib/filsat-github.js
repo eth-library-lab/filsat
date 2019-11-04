@@ -6,7 +6,7 @@ const rimraf = require("rimraf");
 const simplegit = require("simple-git/promise");
 class FilsatGithub {
     constructor() {
-        this.githubToken = 'd948e5c3e1dfd45c6a8a2cfc1b2c8050f1057153';
+        this.githubToken = '';
         this.githubApiV3 = 'https://api.github.com/repos';
         this.githubApiV4 = 'https://api.github.com/graphql';
         this.workingDirectory = '/tmp';

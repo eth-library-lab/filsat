@@ -13,8 +13,8 @@ The following command aims to help you set up a local development environment.
 In order to install this application, clone the project and install the dependencies.
 
 ```bash
-git clone https://github.com/WatKey/dsyntdocs
-cd dsyntdocs/demo
+git clone https://github.com/eth-library-lab/filsat
+cd filsat/demo
 npm install
 ```
 

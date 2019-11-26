@@ -4,7 +4,7 @@ mkdir filsat_api
 
 # Clone the dsyntdocs
 
-git clone https://github.com/WatKey/dsyntdocs
+git clone https://github.com/eth-library-lab/filsat
 
 # Installation virtual environment
 
@@ -18,12 +18,12 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-To go exit virtual environment run `deactivate`
+To exit virtual environment run `deactivate`
 
 # Go to source project folder
 
 ```bash
-cd dsyntdocs
+cd filsat
 ```
 
 # Install requirements/dependencies

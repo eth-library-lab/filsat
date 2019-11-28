@@ -1,6 +1,6 @@
 # Installation guide
 
-The installation guide aims to provide you a step by step tutorial to install and configure locally the [api](https://github.com/eth-library-lab/filsat/tree/master/api) of the project [Dsyntdocs](https://github.com/eth-library-lab/filsat)
+The installation guide aims to provide you a step by step tutorial to install and configure locally the [api](https://github.com/eth-library-lab/filsat/tree/master/api) of the [Dsyntdocs](https://github.com/eth-library-lab/filsat) prototype.
 
 ## Create a root folder for the project
 

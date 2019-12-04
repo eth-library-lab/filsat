@@ -15,6 +15,7 @@
 - [Installation](#installation)
 - [Run](#run)
 - [Query and mutation through GraphQL](#query-and-mutation-through-graphql)
+- [License](#license)
 
 ## Getting Started
 
@@ -244,3 +245,7 @@ mutation UpdateDoc {
   }
 }
 ```
+
+## License
+
+[MIT](./LICENSE.md)

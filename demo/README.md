@@ -15,6 +15,7 @@
 - [Installation](#installation)
 - [Run](#run)
 - [Production](#production)
+- [License](#license)
 
 ## Getting Started
 
@@ -43,3 +44,7 @@ npm run build
 ```
 
 Once the build completed, you could now copy all the files contained in the folder `www` to your web server.
+
+## License
+
+[MIT](./LICENSE.md)

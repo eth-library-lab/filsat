@@ -15,6 +15,7 @@
 - [Installation](#installation)
 - [Run](#run)
 - [Production](#production)
+- [License](#license)
 
 ## Getting Started
 
@@ -41,3 +42,7 @@ npm run cron
 ## Production
 
 To automate this batch on a server, either use above cronjob command `cron` or add the `start` command to the server scheduler.
+
+## License
+
+[MIT](./LICENSE.md)

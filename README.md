@@ -32,6 +32,7 @@ This approach benefits open source projects as well as the people writing the do
 - [Getting Started](#getting-started)
 - [Blog](#blog)
 - [Contact](#contact)
+- [License](#license)
 
 ## Getting Started
 
@@ -53,3 +54,7 @@ Some related blog posts published along the project by [Magnus Wuttke](http://gi
 ## Contact
 
 For any inquiries, use the ETH Library Lab [contact form](https://www.librarylab.ethz.ch/contact/).
+
+## License
+
+[MIT](LICENSE.md)

@@ -1,5 +1,5 @@
 {
-  "name": "dsyntdocs-sender",
+  "name": "filsat-sender",
   "version": "0.0.1",
   "description": "A batch to create and send the documentation as pull requests (PR)",
   "devDependencies": {

@@ -3,7 +3,7 @@
   
   <br/>
   
-  <p><strong>Dsyntdocs</strong> - A transition platform for open source code and online coding tutorials.</p>
+  <p><strong>Filsat</strong> - A transition platform for open source code and online coding tutorials.</p>
   
   <p>An Initiative for human-centered Innovation in the Knowledge Sphere of the <a href="https://www.librarylab.ethz.ch">ETH Library Lab</a>.</p>
 
@@ -17,7 +17,7 @@ Due to its abundance, the main concern with open source software has shifted fro
 
 On the other hand, developers need to be increasingly able to read and understand other people’s code, which is due to the increasing size of software projects and the collaborative nature of open source software. Reading foreign code, however, is not an easy task and should be taught and practiced in a structured way. Unfortunately, most coding tutorials and courses focus on code- creation and do not teach aspiring programmers how to efficiently parse and understand other people’s code.
 
-Dsyntdocs aims at solving both issues simultaneously, providing a transition platform for open source code and online coding tutorials. The platform provides a standardised interface for loading up and requesting code, thus enabling a code flow from open source projects towards online learning tutorials. The uploaded open source code is requested by the tutorials and integrated into the learning experience as reading exercises. Once the code is understood, the learners write the documentation they would have needed in order to understand the code right-away. As a final step the documentation is provided back to the open source projects where it is integrated.
+Filsat aims at solving both issues simultaneously, providing a transition platform for open source code and online coding tutorials. The platform provides a standardised interface for loading up and requesting code, thus enabling a code flow from open source projects towards online learning tutorials. The uploaded open source code is requested by the tutorials and integrated into the learning experience as reading exercises. Once the code is understood, the learners write the documentation they would have needed in order to understand the code right-away. As a final step the documentation is provided back to the open source projects where it is integrated.
 
 This approach benefits open source projects as well as the people writing the documentation. For projects without documentation, it is written, whereas the documentation for projects with prior documentation is improved. Code learners learn how to read other people’s code and solidify their understanding by writing down their newly acquired knowledge.
 

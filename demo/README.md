@@ -3,7 +3,7 @@
   
   <br/>
   
-  <p><strong>Dsyntdocs</strong> - A transition platform for open source code and online coding tutorials.</p>
+  <p><strong>Filsat</strong> - A transition platform for open source code and online coding tutorials.</p>
   
   <p>An Initiative for human-centered Innovation in the Knowledge Sphere of the <a href="https://www.librarylab.ethz.ch">ETH Library Lab</a>.</p>
 

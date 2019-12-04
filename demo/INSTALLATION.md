@@ -1,6 +1,6 @@
 # Installation guide
 
-The installation guide aims to provide information to install and configure locally the [demo app](https://github.com/eth-library-lab/filsat/tree/master/demo) of the [Dsyntdocs](https://github.com/eth-library-lab/filsat) prototype.
+The installation guide aims to provide information to install and configure locally the [demo app](https://github.com/eth-library-lab/filsat/tree/master/demo) of the [Filsat](https://github.com/eth-library-lab/filsat) prototype.
 
 ## Prerequisite
 

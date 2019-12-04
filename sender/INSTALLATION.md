@@ -1,6 +1,6 @@
 # Installation guide
 
-The installation guide aims to provide information to install and configure locally the [sender app](https://github.com/eth-library-lab/filsat/tree/master/sender) of the [Dsyntdocs](https://github.com/eth-library-lab/filsat) prototype.
+The installation guide aims to provide information to install and configure locally the [sender app](https://github.com/eth-library-lab/filsat/tree/master/sender) of the [Filsat](https://github.com/eth-library-lab/filsat) prototype.
 
 ## Prerequisite
 

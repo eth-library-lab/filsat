@@ -21,6 +21,12 @@ Dsyntdocs aims at solving both issues simultaneously, providing a transition pla
 
 This approach benefits open source projects as well as the people writing the documentation. For projects without documentation, it is written, whereas the documentation for projects with prior documentation is improved. Code learners learn how to read other people’s code and solidify their understanding by writing down their newly acquired knowledge.
 
+<div align="center">
+  <br>
+  <img src="static/filsat-solution-approach.png" alt="Solution Approach" width="100%">
+  <br>
+</div>
+
 ## Table of contents
 
 - [Getting Started](#getting-started)

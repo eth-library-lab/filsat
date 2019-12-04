@@ -248,4 +248,4 @@ mutation UpdateDoc {
 
 ## License
 
-[MIT](./LICENSE.md)
+[MIT](https://github.com/eth-library-lab/filsat/LICENSE.md)

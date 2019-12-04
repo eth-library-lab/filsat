@@ -47,4 +47,4 @@ Once the build completed, you could now copy all the files contained in the fold
 
 ## License
 
-[MIT](./LICENSE.md)
+[MIT](https://github.com/eth-library-lab/filsat/LICENSE.md)

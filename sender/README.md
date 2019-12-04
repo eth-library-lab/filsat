@@ -45,4 +45,4 @@ To automate this batch on a server, either use above cronjob command `cron` or a
 
 ## License
 
-[MIT](./LICENSE.md)
+[MIT](https://github.com/eth-library-lab/filsat/LICENSE.md)

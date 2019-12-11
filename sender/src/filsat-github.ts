@@ -22,9 +22,9 @@ export class FilsatGithub {
     private workingDirectory: string = '/tmp';
 
     // Prototype values
-    private branchName: string = 'dsyntdocs';
+    private branchName: string = 'filsat';
     private fileName: string = 'DOCUMENTATION.md';
-    private message: string = 'doc: dsyntdocs prototype';
+    private message: string = 'doc: filsat prototype';
 
     async createPR(pathname: string, taskId: string, docContent: string) {
         // NOTE: Note: Forking a Repository happens asynchronously. You may have to wait a short period of time before you can access the git objects. If this takes longer than 5 minutes, be sure to contact GitHub Support.

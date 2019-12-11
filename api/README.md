@@ -1,20 +1,45 @@
-# Installation
+<div align="center">
+  <a href="https://www.librarylab.ethz.ch"><img src="https://www.librarylab.ethz.ch/wp-content/uploads/2018/05/logo.svg" alt="Wooof logo" height="160"></a>
+  
+  <br/>
+  
+  <p><strong>Filsat</strong> - A transition platform for open source code and online coding tutorials.</p>
+  
+  <p>An Initiative for human-centered Innovation in the Knowledge Sphere of the <a href="https://www.librarylab.ethz.ch">ETH Library Lab</a>.</p>
 
-see [Installation guide](INSTALLATION.md)
+</div>
 
-# Run
+## Table of contents
 
-Run the server in your virtual environment (`source env/bin/activate`)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Run](#run)
+- [Query and mutation through GraphQL](#query-and-mutation-through-graphql)
+- [License](#license)
+
+## Getting Started
+
+This project is a GraphQL API for the server side of the project [Filsat](https://github.com/eth-library-lab/filsat) developed in [Python](https://www.python.org).
+
+## Installation
+
+See [Installation guide](INSTALLATION.md).
+
+## Run
+
+To run the server locally in your virtual environment (`source env/bin/activate`):
 
 ```bash
 python3 manage.py runserver
 ```
 
-# Query and mutation throuhg GraphQL
+## Query and mutation through GraphQL
 
 [http://localhost:8000/graphql/](http://localhost:8000/graphql/)
 
-# Queries
+### Examples of queries
+
+The following are some examples of queries you could use to populate or query your local project.
 
 ## Create a project
 
@@ -220,3 +245,7 @@ mutation UpdateDoc {
   }
 }
 ```
+
+## License
+
+[MIT](https://github.com/eth-library-lab/filsat/LICENSE.md)

@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.librarylab.ethz.ch"><img src="https://www.librarylab.ethz.ch/wp-content/uploads/2018/05/logo.svg" alt="Wooof logo" height="160"></a>
+  <a href="https://www.librarylab.ethz.ch"><img src="https://www.librarylab.ethz.ch/wp-content/uploads/2018/05/logo.svg" alt="ETH Library LAB logo" height="160"></a>
   
   <br/>
   
@@ -248,4 +248,4 @@ mutation UpdateDoc {
 
 ## License
 
-[MIT](https://github.com/eth-library-lab/filsat/LICENSE.md)
+[MIT](https://github.com/eth-library-lab/filsat/LICENSE)

@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.librarylab.ethz.ch"><img src="https://www.librarylab.ethz.ch/wp-content/uploads/2018/05/logo.svg" alt="Wooof logo" height="160"></a>
+  <a href="https://www.librarylab.ethz.ch"><img src="https://www.librarylab.ethz.ch/wp-content/uploads/2018/05/logo.svg" alt="ETH Library LAB logo" height="160"></a>
   
   <br/>
   
@@ -57,4 +57,4 @@ For any inquiries, use the ETH Library Lab [contact form](https://www.librarylab
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
